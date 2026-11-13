@@ -1,3 +1,8 @@
+GRUPO: 
+JOÃO PEDRO VIEIRA DOS SANTOS
+KAUÃ LEVIK SOARES OLIVEIRA
+RAFAEL MARINHO DOS SANTOS
+
 # 🍳 Cardápio da Semana — Spring Boot + JTE (Versão 2)
 
 Aplicação web desenvolvida em **Java com Spring Boot** e **JTE (Java Template Engine)** para planejamento de refeições semanais, com armazenamento em memória (`List<Prato>`), menu lateral reaproveitado e controle de pratos planejados e feitos.
